@@ -29,7 +29,7 @@ My dream is to be able to dedicate myself not only to web and application progra
 
 - 📱 Telefono - Phone: **+5492612797321**
 
-<h3 align="left">Contacta conmigo - Connect with me</h3>
+<h3 align="left">Contacta conmigo - Contact with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/agustin-daniel-chavero-267378255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustin-daniel-chavero-267378255/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/agustinchavero96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/agustinchavero96/" height="30" width="40" /></a>
