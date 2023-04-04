@@ -8,16 +8,7 @@ Mi sueño es poder dedicarme no solo a la programacion web y de aplicaciones, si
 <h4 align="center">(For about 2 years I have been studying programming, currently I have just finished the Fullstack Developer course at Henry and I am doing my first freelance projects.
 My dream is to be able to dedicate myself not only to web and application programming, but to be able to take my ideas towards the development of video games.)</h4>
 
-- 💻 Trabajando - Working: [Pet-Friendly-Universe](https://petfriendlyuniverse.vercel.app/) en colaboracion con:
-  - [Stefano Gemelli](https://github.com/stefanogemelli)
-  - [Federico Almeida](https://github.com/FedericoA15)
-  - [Pablo Amico](https://github.com/pablosecuen)
-  - [Maximiliano Permingeat](https://github.com/mpermingeat)
-  - [Imanol Dominguez](https://github.com/imadominguez)
-  - [Benjamin Castro](https://github.com/Yuarinaim)
-  - [Florencia Marcos](https://github.com/FlorenciaMarcos)
-
-- 🧐 Aprendiendo - Learning: **ReactNative, TypeScript, SQL.**
+- 🧐 Aprendiendo - Learning: **Python, ReactNative, TypeScript.**
 
 - 🧠 Especializado - Specialized: **React, Redux, JavaScript, Tailwind.**
 
