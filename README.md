@@ -2,11 +2,20 @@
 
 <h1 align="center">Agustin Daniel Orellano Chavero</h1>
 <h3 align="center">Focalizado en la programación, decidido a cambiar mi vida.</h3>
-<h4 align="center">(Focused on programming, determined to change my life.)</h4>
-<h3 align="center">Desde hace unos 2 años me encuentro estudiando programacion, actualmente acabo de terminar el curso de Desarrollador fullstack en Henry y me encuentro realizando mis primeros proyectos freelance.
-Mi sueño es poder dedicarme no solo a la programacion web y de aplicaciones, sino poder llevar mis ideas hacia el desarrollo de video juegos</h3>
-<h4 align="center">(For about 2 years I have been studying programming, currently I have just finished the Fullstack Developer course at Henry and I am doing my first freelance projects.
-My dream is to be able to dedicate myself not only to web and application programming, but to be able to take my ideas towards the development of video games.)</h4>
+<h3 align="center">Soy un Full Stack Developer con estudios previos y experiencia, en Comercio Internacional y Atención al 
+Cliente, poseo conocimientos tanto en React como en JavaScript, Tailwind, Sequelize y Python entre otras 
+tecnologías. Además, tengo aptitudes como proactividad, dedicación, iniciativa, flexibilidad, automotivación, 
+negociación y un nivel de ingles intermedio calificado como B1.</h3>
+<h3 align="center">Capaz de formar equipos desde cero y mantener una buena relación con los clientes.
+Tomo la iniciativa en el reclutamiento de personas con las cuales trabajar, generando un buen 
+ambiente de trabajo con energía positiva a través de la cooperación, dedicación, sacrificio y 
+compromiso.
+</h3>
+<h3 align="center">Desde el punto de vista técnico con mi experiencia previa en Comercio Internacional, Atención al 
+Cliente, y el conocimiento de Ful Stack Development, puedo ayudar en el incremento de ganancias y 
+mejorar la presencia en línea a través de ideas innovadoras y la optimización de gastos.
+</h3>
+
 
 - 🧐 Aprendiendo - Learning: **Python, ReactNative, TypeScript.**
 
