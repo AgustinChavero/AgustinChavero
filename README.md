@@ -1,6 +1,6 @@
 ﻿# AgustinChavero
 
-<h1 align="center">Agustin Daniel Orellano Chavero</h1>
+<h1 align="center">Agustin Daniel Chavero</h1>
 <h3 align="center">Focalizado en la programación, decidido a cambiar mi vida.</h3>
 <h3 align="center">Soy un Full Stack Developer con estudios previos y experiencia, en Comercio Internacional y Atención al 
 Cliente, poseo conocimientos tanto en React como en JavaScript, Tailwind, Sequelize y Python entre otras 
@@ -33,7 +33,6 @@ mejorar la presencia en línea a través de ideas innovadoras y la optimización
 <p align="left">
 <a href="https://www.linkedin.com/in/agustin-daniel-chavero-267378255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustin-daniel-chavero-267378255/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/agustinchavero96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/agustinchavero96/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/rq4S3mdN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rq4S3mdN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">¿Que tecnologia y herramientas uso? - What technology and tools do I use?</h3>
