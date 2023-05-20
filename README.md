@@ -1,11 +1,8 @@
 ﻿# AgustinChavero
 
 <h1 align="center">Agustin Daniel Chavero</h1>
-<h3 align="center">Focalizado en la programación, decidido a cambiar mi vida.</h3>
-<h3 align="center">Soy un Full Stack Developer con estudios previos y experiencia, en Comercio Internacional y Atención al 
-Cliente, poseo conocimientos tanto en React como en JavaScript, Tailwind, Sequelize y Python entre otras 
-tecnologías. Además, tengo aptitudes como proactividad, dedicación, iniciativa, flexibilidad, automotivación, 
-negociación y un nivel de ingles intermedio calificado como B1.</h3>
+<h3 align="center">De Mendoza-Argentina. Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer con experiencia desarrollando webs/apps en React | JavaScript | Firebase | TypeScript | Tailwind | NextJS | ReduxToolkit | Sequelize | Express | Python | SQL | NoSQL. Proactivo, dedicado, con iniciativa, flexibilidad, automotivación, negociación, gran integración grupal y un nivel de inglés intermedio B1.</h3>
 <h3 align="center">Capaz de formar equipos desde cero y mantener una buena relación con los clientes.
 Tomo la iniciativa en el reclutamiento de personas con las cuales trabajar, generando un buen 
 ambiente de trabajo con energía positiva a través de la cooperación, dedicación, sacrificio y 
@@ -17,13 +14,11 @@ mejorar la presencia en línea a través de ideas innovadoras y la optimización
 </h3>
 
 
-- 🧐 Aprendiendo - Learning: **Python, ReactNative, TypeScript.**
+- 🧐 Aprendiendo - Learning: **Python, ReactNative, NextJS.**
 
-- 🧠 Especializado - Specialized: **React, Redux, JavaScript, Tailwind.**
+- 🧠 Especializado - Specialized: **React, ReduxToolkit, JavaScript, TypeScript, Tailwind.**
 
 - 👄 Idiomas - Languages: Español - English - Português (Brasil)
-
-- 🌎 Soy de - Im from: Mendoza-Argentina
 
 - 📫 Correo electronico - Email: **agustin1996orellano@gmail.com**
 
