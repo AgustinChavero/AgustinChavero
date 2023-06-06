@@ -20,7 +20,7 @@ mejorar la presencia en línea a través de ideas innovadoras y la optimización
 
 - 👄 Idiomas - Languages: Español - English - Português (Brasil)
 
-- 📫 Correo electronico - Email: **agustin1996orellano@gmail.com**
+- 📫 Correo electronico - Email: **agustindanielchavero@gmail.com**
 
 - 📱 Telefono - Phone: **+5492612797321**
 
