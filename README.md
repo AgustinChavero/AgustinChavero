@@ -1,7 +1,7 @@
 ﻿# Backend Developer
 ﻿<h3 align="left">Agustin Daniel Chavero</h3>
 <h3 align="left">De Mendoza-Argentina</h3>
-<h3 align="center">Full Stack Developer con experiencia desarrollando webs y aplicaciones, a través de metodologías agiles siendo proactivo, dedicado, meticuloso, con iniciativa y una gran integración grupal capaz de adaptarse a nuevas tecnologías y equipos en poco tiempo.</h3>
+<h3 align="left">Full Stack Developer con experiencia desarrollando webs y aplicaciones, a través de metodologías agiles siendo proactivo, dedicado, meticuloso, con iniciativa y una gran integración grupal capaz de adaptarse a nuevas tecnologías y equipos en poco tiempo.</h3>
 <h3 align="center">Actualmente trabajando para Aythen Company</h3>
 
 - 🧠 Especializado - Specialized: **TypeScript, JavaScript, Node, Sequelize, Express, Firestore, React y Tailwind**
