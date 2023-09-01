@@ -1,7 +1,7 @@
 ﻿# Agustin Daniel Chavero
 ﻿<h2 align="left">🖥️ Backend Developer from Mendoza-Argentina</h2>
 <h5 align="left"></h5>
-<h5 align="left">I have experience in RESTful API development, proactive, dedicated, meticulous, with initiative, and a strong team player capable of adapting to new technologies and teams..</h5>
+<h5 align="left">I have experience in RESTful API development, proactive, dedicated, meticulous, with initiative, and a strong team player capable of adapting to new technologies and teams.</h5>
 <h5 align="left">Specialized in agile methodologies as well as TypeScript, JavaScript, NodeJS, Tailwind, and proficient in both SQL and NoSQL database management, with a growing intermediate level of English (B2).</h5>
 <h5 align="left">I prefer speak in spanish, i can understand you if you speak in English</h5>
 
