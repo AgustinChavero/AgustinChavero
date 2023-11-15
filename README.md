@@ -1,4 +1,4 @@
-﻿# Fullstack Developer from Mendoza-Argentina
+﻿# Fullstack Developer
 ﻿<h2 align="left">🖥️ Profile </h2>
 <h5 align="left"></h5>
 <h5 align="left">I have experience in RESTful API development, proactive, dedicated, meticulous, with initiative, and a strong team player capable of adapting to new technologies and teams.</h5>
