@@ -30,4 +30,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinchavero&" alt="agustinchavero" /></p>
 
 <h2 align="left">Private contributions (updated every month)</h2>
-<p><img align="center" src="https://github.com/AgustinChavero/AgustinChavero/assets/115723404/3f1f0045-7702-4692-94a8-47416cc647af" alt="agustinchaverostats" /></p>
+<p><img align="center" src="https://github.com/AgustinChavero/AgustinChavero/assets/115723404/a7d80d91-6fed-4140-b8d7-a9a22f720a54" /></p>
