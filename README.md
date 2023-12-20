@@ -6,9 +6,9 @@
 <h5 align="left">I am currently developing projects to improve my skills, add new capabilities to my credit, and waiting for new and challenging opportunities.</h5>
 
 <h2 align="left">🧠 Technologies and frameworks</h2>
-<h5 align="left"> - Techs: **NodeJS | Express | Fastify | Nest | Sequelize | TypeORM | Mongoose | TypeScript | JavaScript | PostgreSQL | MySQL | MongoDB | Firebase | DBeaver | Tailwind | React | Next | Python | FastApi** </h5>
+<h5 align="left"> - Techs: **Docker | Microservices | NodeJS | Express | Fastify | Nest | Sequelize | TypeORM | Mongoose | TypeScript | JavaScript | PostgreSQL | MySQL | MongoDB | Firebase | DBeaver | C# | NET | ASP.NET | Tailwind | React | Next | Python | FastApi** </h5>
 <h5 align="left"> - Strengths: **NodeJS | Express | Fastify | Nest | Sequelize | TypeORM | Mongoose | TypeScript | JavaScript | PostgreSQL | MySQL | MongoDB | Firebase | DBeaver | Tailwind** </h5>
-<h5 align="left"> - In progress: **PHP | Laravel | C# | .NET** </h5>
+<h5 align="left"> - In progress: **PHP | Laravel ** </h5>
 
 <h2 align="left">👄 Languages:</h2>
 <h5 align="left"> Spanish (Argentina) - English (England) - Português (Brazil) </h5>
