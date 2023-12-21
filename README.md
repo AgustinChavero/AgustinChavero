@@ -7,7 +7,7 @@
 
 <h2 align="left">🧠 Technologies and frameworks</h2>
 <h5 align="left"> - Techs: **Docker | Microservices | NodeJS | Express | Fastify | Nest | Sequelize | TypeORM | Mongoose | TypeScript | JavaScript | PostgreSQL | MySQL | MongoDB | Firebase | DBeaver | C# | NET | ASP.NET | Tailwind | React | ReactNative | Next | Python | FastApi** </h5>
-<h5 align="left"> - Strengths: **NodeJS | NET | Express | Fastify | Nest | ASP.NET | Sequelize | TypeORM | Mongoose | TypeScript | JavaScript | C# | PostgreSQL | MySQL | MongoDB | Firebase | DBeaver | Tailwind | React | ReactNative** </h5>
+<h5 align="left"> - Strengths: **NodeJS | NET | Express | Fastify | ASP.NET | Nest | Sequelize | TypeORM | Mongoose | TypeScript | JavaScript | C# | PostgreSQL | MySQL | MongoDB | Firebase | DBeaver | Tailwind | React | ReactNative** </h5>
 <h5 align="left"> - In progress: **PHP | Laravel ** </h5>
 
 <h2 align="left">👄 Languages:</h2>
