@@ -1,8 +1,8 @@
 ﻿# Fullstack Developer
 ﻿<h2 align="left">🖥️ Profile </h2>
 <h5 align="left"></h5>
-<h5 align="left">I have experience in RESTful API development, proactive, dedicated, meticulous, with initiative, and a strong team player capable of adapting to new technologies and teams.</h5>
-<h5 align="left">I worked for different NGOs and companies in Argentina, Spain and Colombia. In these experiences I managed to grow both personally and professionally by putting into practice all my abilities at a group and individual level.</h5>
+<h5 align="left">I have experience in RESTful API development, proactive, dedicated, meticulous, with initiative, and a strong team player capable of adapting to new technologies and teams. I am also highly trained to manage projects in Node, Python, Laravel & ReactNative.</h5>
+<h5 align="left">I worked for different NGOs and companies in Argentina, Colombia, Spain and Uruguay. In these experiences I managed to grow both personally and professionally by putting into practice all my abilities at a group and individual level.</h5>
 <h5 align="left">I am currently developing projects to improve my skills, add new capabilities to my credit, and waiting for new and challenging opportunities.</h5>
 
 <h2 align="left">🧠 Technologies and frameworks</h2>
