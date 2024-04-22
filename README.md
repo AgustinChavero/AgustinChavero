@@ -1,14 +1,13 @@
 ﻿# Fullstack Developer
 ﻿<h2 align="left">🖥️ Profile </h2>
 <h5 align="left"></h5>
-<h5 align="left">I have experience in RESTful API development, proactive, dedicated, meticulous, with initiative, and a strong team player capable of adapting to new technologies and teams. I am also highly trained to manage projects in Node, Python, Laravel & ReactNative.</h5>
+<h5 align="left">I am currently working for an accounting firm that uses BigBucket as a workspace, focused on the development of an accounting system and management software for clinics.</h5>
+<h5 align="left">I have experience in RESTful API development, proactive, dedicated, meticulous, with initiative, and a strong team player capable of adapting to new technologies and teams. I am also highly trained to manage projects in Laravel, Node, Python & ReactNative.</h5>
 <h5 align="left">I worked for different NGOs and companies in Argentina, Colombia, Spain and Uruguay. In these experiences I managed to grow both personally and professionally by putting into practice all my abilities at a group and individual level.</h5>
-<h5 align="left">I am currently developing projects to improve my skills, add new capabilities to my credit, and waiting for new and challenging opportunities.</h5>
 
 <h2 align="left">🧠 Technologies and frameworks</h2>
-<h5 align="left"> - Techs: **Docker | Microservices | NodeJS | Express | Fastify | Laravel | Nest | Sequelize | TypeORM | Mongoose | TypeScript | JavaScript | PHP | PostgreSQL | MySQL | MongoDB | Firebase | DBeaver | C# | NET | ASP.NET | Tailwind | React | ReactNative | Next | Python | FastApi** </h5>
-<h5 align="left"> - Strengths: **NodeJS | NET | Express | Fastify | Laravel | Nest | Sequelize | TypeORM | Mongoose | TypeScript | JavaScript | PHP | PostgreSQL | MySQL | MongoDB | Tailwind | React | ReactNative** </h5>
-<h5 align="left"> - In progress: ** NET | ASP.NET | C# ** </h5>
+<h5 align="left"> - Techs: **Docker, Microservicios, Node, NET, Express, Fastify, ASPNET, Sequelize, TypeORM, Nest, JavaScript, TypeScript, C#, C++, MongoDB, Mongoose, PostgreSQL, MySQL, Firestore, Firebase, DBeaver, MySQLWorkbench, Jest, Joi, HTML5, CSS, Next, React, React Native, Tailwind, Electron, Python, Django, PHP, Laravel, Scaleway, Swagger.** </h5>
+<h5 align="left"> - Strengths: **Microservicios, Laravel, PHP, Node, Express, Fastify, Sequelize, PostgreSQL, JavaScript, TypeScript, Jest, Joi, MongoDB, Mongoose, HTML5, React, React Native, Tailwind, Scaleway.** </h5>
 
 <h2 align="left">👄 Languages:</h2>
 <h5 align="left"> Spanish (Argentina) - English (England) - Português (Brazil) </h5>
