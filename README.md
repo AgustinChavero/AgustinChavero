@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Backend Developer</h1>
 
 ## 📄 Profile 
-I'm a Backend Developer with over a year of experience in web/software development. 
+I'm a Backend Developer with almost two years of experience in web/software development. 
 I consider myself proactive, dedicated, meticulous, with initiative and strong determination to face new challenges. 
 I have experience working with agile methodologies, technologies like Laravel, Node, .NET, among others. 
 I have developed in TDD environments and managed both SQL and NoSQL databases, and I also have Frontend skills.
