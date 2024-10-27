@@ -1,4 +1,4 @@
-# 🖥️ Fullstack Developer
+<h1 align="center">🖥️ Backend Developer</h1>
 
 ## 📄 Profile 
 I'm a Backend Developer with over a year of experience in web/software development. 
