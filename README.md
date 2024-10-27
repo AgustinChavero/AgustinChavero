@@ -22,10 +22,21 @@ I have developed in TDD environments and managed both SQL and NoSQL databases, a
 ## 👨‍💼 Work Experience
 
 ### Backend Developer – Taxes | January 2024 – Present
+**Technologies:** Laravel, PHP, MySQL, Vue
+
 ### Backend Developer – Aythen | April 2023 – November 2023
+**Technologies:** Node, Express, PostgreSQL, Sequelize
+
+## 👨‍💼 Projects
+
 ### Backend Developer - AFondo | June 2024 – July 2024
+**Technologies:** Node, Express, PostgreSQL
+
 ### Fullstack Developer - Drugstore | November 2023 – December 2023
+**Technologies:** Node, Fastify, MongoDB, React Native
+
 ### Fullstack Developer - Pet Friendly | February 2023 – March 2023
+**Technologies:** Node, Express, PostgreSQL, React
 
 ## 🌐 Languages
 - Spanish (Native)
