@@ -1,19 +1,63 @@
-﻿# Fullstack Developer
-﻿<h2 align="left">🖥️ Profile </h2>
-<h5 align="left"></h5>
-<h5 align="left">I'm currently working as a backend developer for an accounting company that runs BitBucket, I'll clarify this in case you're wondering because I haven't had many contributions lately.</h5>
-<h5 align="left">I have more than a year of experience in software development. I consider myself proactive, dedicated, meticulous, with initiative, and a strong team player capable of adapting to new technologies and teams.</h5>
-<h5 align="left">I worked for different NGOs and companies in Argentina, Colombia, Spain and Uruguay. In these experiences I managed to grow both personally and professionally by putting into practice all my abilities at a group and individual level.</h5>
+# 🖥️ Fullstack Developer
 
-<h2 align="left">🧠 Technologies and frameworks</h2>
-<h5 align="left"> - Techs: **Node, Laravel, Django, Net, Express, Fastify, Nest, PHP, Python, ASPNET, JavaScript, TypeScript, C#, C++, MongoDB, Mongoose, PostgreSQL, MySQL, Sequelize, TypeORM, Firestore, Firebase, DBeaver, MySQLWorkbench, Jest, Joi, React, React Native, Tailwind, Electron, Next , HTML5, CSS, Swagger, Docker, Microservicios, Scaleway, Railway.** </h5>
-<h5 align="left"> - Strengths: **Microservicios, Laravel, PHP, Node, Express, Fastify, JavaScript, TypeScript, Sequelize, PostgreSQL, MySQLWorkbench, Mongoose, MongoDB, MySQL, Jest, Joi, HTML5, React, React Native, Tailwind, Scaleway, Railway.** </h5>
+## 📄 Profile 
+I'm a Backend Developer with over a year of experience in web/software development. 
+I consider myself proactive, dedicated, meticulous, with initiative and strong determination to face new challenges. 
+I have experience working with agile methodologies, technologies like Laravel, Node, .NET, among others. 
+I have developed in TDD environments and managed both SQL and NoSQL databases, and I also have Frontend skills.
 
-<h2 align="left">👄 Languages:</h2>
-<h5 align="left"> Spanish (Argentina) - English (England) - Português (Brazil) </h5>
+## 🧠 Technologies and Frameworks
 
-<h2 align="left">📱 Contact with me:</h2>
-<h6 align="left"> Send me a email to <a href="mailto:agustindanielchavero@gmail.com" target="blank">agustindanielchavero@gmail.com</a></h6>
-<h6 align="left"> Send me a message to <a href="https://api.whatsapp.com/send?phone=5492612797321" target="blank">+5492612797321</a></h6>
-<h6 align="left"> Follow me on <a href="https://www.linkedin.com/in/agustinchavero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agustinchavero/" height="15" width="25" /></a></h6>
-<h6 align="left"> Follow me on <a href="https://www.instagram.com/agustinchavero.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/agustinchavero.dev/" height="15" width="25" /></a></h6>
+- **Techs:** 
+  - **Languages:** PHP, JavaScript, TypeScript, C#, Python, C++.
+  - **Backend:** Laravel, Express, Fastify, Nest, ASP.NET, Django.
+  - **Frontend:** React, React Native, Next, Tailwind CSS, Electron.
+  - **ORMs:** Sequelize, TypeORM, Mongoose, Firestore.
+  - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase.
+  - **Infrastructure:** Docker, Scaleway, Railway.
+
+- **Strengths:** 
+  - Microservices, Docker, Laravel, Node, Express, Fastify, PHP, JavaScript, TypeScript, MySQL, PostgreSQL, Sequelize, MongoDB, Mongoose, Jest, Joi, HTML5, React, React Native, Tailwind.
+
+## 👨‍💼 Work Experience
+
+### Backend Developer – Taxes | January 2024 – Present
+**Technologies:** Laravel, PHP, MySQL, Vue, JavaScript, Bootstrap, MySQLWorkbench, BitBucket
+- Developed management software, AI integrations, scraping, and system migrations.
+- Database modeling, backend development, endpoint documentation, updates, testing, and support.
+- Responsible for backend development across all applications.
+
+### Backend Developer – Aythen | April 2023 – November 2023
+**Technologies:** Node, Express, JavaScript, Sequelize, Joi, PostgreSQL, SQL, Next, CSS, DBeaver, Scaleway
+- Developed a “no code” platform for website creation, online course sales, and freelance on-demand services.
+- Database modeling, flow diagramming, backend development, endpoint documentation, testing, and support.
+
+### Backend Developer - AFondo | June 2024 – July 2024
+**Technologies:** Node, Express, JavaScript, Sequelize, PostgreSQL, GitHub
+- Developed a ticket sales software.
+- Database modeling, payment gateway integration, and email sending.
+
+### Fullstack Developer - Drugstore | November 2023 – December 2023
+**Technologies:** Node, Fastify, JavaScript, Mongo, Mongoose, NoSQL, React Native, CSS, Expo, Android, Render
+- Developed management software for a store network.
+- Database modeling, fullstack development, and documentation.
+
+### Fullstack Developer - Pet Friendly | February 2023 – March 2023
+**Technologies:** Node, Express, JavaScript, Sequelize, PostgreSQL, React, CSS, PGAdmin, GitHub, Render
+- Developed an e-commerce platform for product and service sales, integrated with a blog.
+
+## 🌐 Languages
+- Spanish (Native)
+- English (B1)
+- Portuguese (Brazil) A2
+
+## 📚 Education
+- **Backend Developer | 2023-Present | Udemy/Platzi – Self-taught**
+- **Fullstack Developer | November 2022-February 2023 | Henry**
+- **Associate's Degree in International Trade and Customs | 2014-2017 | UNCuyo**
+
+## 📞 Contact
+- **Email:** [agustindanielchavero@gmail.com](mailto:agustindanielchavero@gmail.com)
+- **WhatsApp:** [+5492612797321](https://api.whatsapp.com/send?phone=5492612797321)
+- **LinkedIn:** [Agustin Chavero](https://www.linkedin.com/in/agustinchavero/)
+- **Instagram:** [agustinchavero.dev](https://www.instagram.com/agustinchavero.dev/)
