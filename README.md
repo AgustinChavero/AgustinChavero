@@ -6,7 +6,7 @@ I consider myself proactive, dedicated, meticulous, with initiative and strong d
 I have experience working with agile methodologies, technologies like Laravel, Node, .NET, among others. 
 I have developed in TDD environments and managed both SQL and NoSQL databases, and I also have Frontend skills.
 
-## 🧠 Technologies and Frameworks
+## 🧠 Technologies, Frameworks and others 
 
 - **Techs:** 
   - **Languages:** PHP, JavaScript, TypeScript, C#, Python, C++.
