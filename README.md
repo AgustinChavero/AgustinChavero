@@ -1,17 +1,16 @@
 <h1 align="center">🖥️ Backend Developer</h1>
 
 ## 📄 Profile 
-I'm a Backend Developer with almost two years of experience in web/software development. 
-I consider myself proactive, dedicated, meticulous, with initiative and strong determination to face new challenges. 
-I have experience working with agile methodologies, technologies like Laravel, Node, .NET, among others. 
-I have developed in TDD environments and managed both SQL and NoSQL databases, and I also have Frontend skills.
+Backend Developer with nearly 2 years of experience in web/software development.  
+Proactive, dedicated, meticulous, with initiative and strong determination, currently seeking new challenges.  
+Specialized in agile methodologies, with solid experience in technologies such as Laravel, Node, Nest, React, and Vue, among others.  
 
 ## 🧠 Technologies, Frameworks and others 
 
 - **Techs:** 
-  - **Languages:** PHP, JavaScript, TypeScript, C#, Python, C++.
+  - **Languages:** PHP, JavaScript, TypeScript, C#, Python.
   - **Backend:** Laravel, Express, Fastify, Nest, ASP.NET, Django.
-  - **Frontend:** React, React Native, Next, Tailwind CSS, Electron.
+  - **Frontend:** VueJS, React, React Native, Next, Tailwind CSS.
   - **ORMs:** Sequelize, TypeORM, Mongoose, Firestore.
   - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase.
   - **Infrastructure:** Docker, Scaleway, Railway.
