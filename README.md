@@ -42,11 +42,11 @@ I have developed in TDD environments and managed both SQL and NoSQL databases, a
 
 ## 🌐 Languages
 - Spanish (Native)
-- English (B1)
+- English (B2+)
 - Portuguese (Brazil) A2
 
 ## 📚 Education
-- **Backend Developer | 2023-Present | Udemy/Platzi – Self-taught**
+- **Technician in Programming | 2024–Present | National Technological University (UTN)**
 - **Fullstack Developer | November 2022-February 2023 | Henry**
 - **Associate's Degree in International Trade and Customs | 2014-2017 | UNCuyo**
 
