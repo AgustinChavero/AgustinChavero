@@ -21,22 +21,24 @@ I have developed in TDD environments and managed both SQL and NoSQL databases, a
 
 ## 👨‍💼 Work Experience
 
-### Backend Developer – Taxes | January 2024 – Present
-**Technologies:** Laravel, PHP, MySQL, Vue
+#### Backend Developer – Taxes | January 2024 – Present  
+- Development of management software and applications, AI integrations, scraping, and system migrations.  
+- Database design and modeling, solution implementation, documentation, testing, and support.  
+- Responsible for backend development of all applications/software.  
 
-### Backend Developer – Aythen | April 2023 – November 2023
-**Technologies:** Node, Express, PostgreSQL, Sequelize
+### Backend Developer – Schon Solutions | December 2024 – Present  
+- Development and maintenance of management software and applications, system migrations, and requirements analysis.  
+- Database design and modeling, solution implementation, documentation, testing, and support.  
+- Backend technical leader, managing project development and collaborating on talent recruitment for the technical team.  
 
-## 👨‍💼 Projects
+### Backend Developer – Ixalab | December 2023 – January 2024  
+- Development of business assistance software for satellite vehicle tracking and carbon footprint calculation.  
+- Metrics development and management for data collection.  
 
-### Backend Developer - AFondo | June 2024 – July 2024
-**Technologies:** Node, Express, PostgreSQL
-
-### Fullstack Developer - Drugstore | November 2023 – December 2023
-**Technologies:** Node, Fastify, MongoDB, React Native
-
-### Fullstack Developer - Pet Friendly | February 2023 – March 2023
-**Technologies:** Node, Express, PostgreSQL, React
+### Backend Developer – Aythen | April 2023 – November 2023  
+- "No-code" platform focused on web page creation, online course sales, and on-demand freelance services.  
+- Database modeling, development, documentation, testing, and support.  
+- Contributed to decision-making and organization, improved communication, set goals, and ensured their achievement.  
 
 ## 🌐 Languages
 - Spanish (Native)
