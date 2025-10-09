@@ -1,19 +1,19 @@
-<h1 align="center">🖥️ Backend Developer</h1>
+<h1 align="center">🖥️ Fullstack Developer</h1>
 
 ## 📄 Profile 
-Backend Developer with nearly 2 years of experience in web/software development.  
+Fullstack Developer with 4/5 years of experience.
 Proactive, dedicated, meticulous, with initiative and strong determination, currently seeking new challenges.  
 Specialized in agile methodologies, with solid experience in technologies such as Laravel, Node, Nest, React, and Vue, among others.  
 
 ## 🧠 Technologies, Frameworks and others 
 
 - **Techs:** 
-  - **Languages:** PHP, JavaScript, TypeScript, C#, Python.
-  - **Backend:** Laravel, Express, Fastify, Nest, ASP.NET, Django.
-  - **Frontend:** VueJS, React, React Native, Next, Tailwind CSS.
+  - **Languages:** Node, JavaScript, PHP, Python.
+  - **Backend:** Laravel, Express, Fastify, Nest, Django.
+  - **Frontend:** React, VueJS, React Native, Next, Tailwind CSS, Boostrap.
   - **ORMs:** Sequelize, TypeORM, Mongoose, Firestore.
-  - **Databases:** PostgreSQL, MySQL, MongoDB, Firebase.
-  - **Infrastructure:** Docker, Scaleway, Railway.
+  - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase.
+  - **Infrastructure:** Docker, Scaleway, Railway, AWS.
 
 - **Strengths:** 
   - Microservices, Docker, Laravel, Node, Express, Fastify, PHP, JavaScript, TypeScript, MySQL, PostgreSQL, Sequelize, MongoDB, Mongoose, Jest, Joi, HTML5, React, React Native, Tailwind.
@@ -21,23 +21,16 @@ Specialized in agile methodologies, with solid experience in technologies such a
 ## 👨‍💼 Work Experience
 
 #### Backend Developer – Taxes | January 2024 – Present  
-- Development of management software and applications, AI integrations, scraping, and system migrations.  
-- Database design and modeling, solution implementation, documentation, testing, and support.  
-- Responsible for backend development of all applications/software.  
+- Management software for accounting firms and dental clinics for Argentina and China.
+- Development of management software and applications, AI integrations, scraping, and system migrations.
+- Database design and modeling, solution implementation, documentation, testing, and support.
+- Focused on backend developer and database analyst.
 
-#### Backend Developer – Schon Solutions | December 2024 – Present  
-- Development and maintenance of management software and applications, system migrations, and requirements analysis.  
-- Database design and modeling, solution implementation, documentation, testing, and support.  
-- Backend technical leader, managing project development and collaborating on talent recruitment for the technical team.  
-
-#### Backend Developer – Ixalab | December 2023 – January 2024  
-- Development of business assistance software for satellite vehicle tracking and carbon footprint calculation.  
-- Metrics development and management for data collection.  
-
-#### Backend Developer – Aythen | April 2023 – November 2023  
-- "No-code" platform focused on web page creation, online course sales, and on-demand freelance services.  
-- Database modeling, development, documentation, testing, and support.  
-- Contributed to decision-making and organization, improved communication, set goals, and ensured their achievement.  
+#### Backend Developer – Aythen | April 2021 – November 2023  
+- Company focused on creating websites and applications, selling online courses, and providing on-demand freelance services for the European Union and Latin America.
+- Development of product, managing 20 people, task assignment and support.
+- Database modeling, development, documentation, testing and support.
+- I became part of decision-making and organization, improved communication, set goals to be met and verified their fulfillment.
 
 ## 🌐 Languages
 - Spanish (Native)
@@ -46,7 +39,6 @@ Specialized in agile methodologies, with solid experience in technologies such a
 
 ## 📚 Education
 - **Technician in Programming | 2024–Present | National Technological University (UTN)**
-- **Fullstack Developer | November 2022-February 2023 | Henry**
 - **Associate's Degree in International Trade and Customs | 2014-2017 | UNCuyo**
 
 ## 📞 Contact
@@ -54,3 +46,4 @@ Specialized in agile methodologies, with solid experience in technologies such a
 - **WhatsApp:** [+5492612797321](https://api.whatsapp.com/send?phone=5492612797321)
 - **LinkedIn:** [Agustin Chavero](https://www.linkedin.com/in/agustinchavero/)
 - **Instagram:** [agustinchavero.dev](https://www.instagram.com/agustinchavero.dev/)
+
