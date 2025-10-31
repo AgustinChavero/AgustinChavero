@@ -20,13 +20,13 @@ Specialized in agile methodologies, with solid experience in technologies such a
 
 ## 👨‍💼 Work Experience
 
-#### Backend Developer – Taxes | January 2024 – Present  
+#### Backend Developer – Taxes / Oclu | January 2024 – Present  
 - Management software for accounting firms and dental clinics for Argentina and China.
 - Development of management software and applications, AI integrations, scraping, and system migrations.
 - Database design and modeling, solution implementation, documentation, testing, and support.
 - Focused on backend developer and database analyst.
 
-#### Backend Developer – Aythen | April 2021 – November 2023  
+#### Backend Developer – Aythen | December 2021 – December 2023  
 - Company focused on creating websites and applications, selling online courses, and providing on-demand freelance services for the European Union and Latin America.
 - Development of product, managing 20 people, task assignment and support.
 - Database modeling, development, documentation, testing and support.
@@ -46,4 +46,5 @@ Specialized in agile methodologies, with solid experience in technologies such a
 - **WhatsApp:** [+5492612797321](https://api.whatsapp.com/send?phone=5492612797321)
 - **LinkedIn:** [Agustin Chavero](https://www.linkedin.com/in/agustinchavero/)
 - **Instagram:** [agustinchavero.dev](https://www.instagram.com/agustinchavero.dev/)
+
 
