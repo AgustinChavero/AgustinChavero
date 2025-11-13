@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Fullstack Developer</h1>
 
 ## 📄 Profile 
-Fullstack Developer with 4/5 years of experience.
+Fullstack Developer with 4 years of experience.
 Proactive, dedicated, meticulous, with initiative and strong determination, currently seeking new challenges.  
 Specialized in agile methodologies, with solid experience in technologies such as Laravel, Node, Nest, React, and Vue, among others.  
 
@@ -46,5 +46,6 @@ Specialized in agile methodologies, with solid experience in technologies such a
 - **WhatsApp:** [+5492612797321](https://api.whatsapp.com/send?phone=5492612797321)
 - **LinkedIn:** [Agustin Chavero](https://www.linkedin.com/in/agustinchavero/)
 - **Instagram:** [agustinchavero.dev](https://www.instagram.com/agustinchavero.dev/)
+
 
 
