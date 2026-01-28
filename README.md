@@ -38,8 +38,7 @@ I invite you to read the recommendations I've received from my colleagues and/or
 - Portuguese (Brazil) A2
 
 ## 📚 Education
-- **Information Systems Engineering | 2025–Present | National Technological University (UTN)**
-- **Computer Systems Analyst | 2019-2021 | National University of Cuyo**
+- **Information Systems Engineering | 2019–Present | National Technological University (UTN)**
 - **International Trade and Customs | 2013-2017 | National University of Cuyo**
 
 ## 📞 Contact
@@ -47,6 +46,7 @@ I invite you to read the recommendations I've received from my colleagues and/or
 - **WhatsApp:** [+5492612797321](https://api.whatsapp.com/send?phone=5492612797321)
 - **LinkedIn:** [Agustin Chavero](https://www.linkedin.com/in/agustinchavero/)
 - **Instagram:** [agustinchavero.dev](https://www.instagram.com/agustinchavero.dev/)
+
 
 
 
